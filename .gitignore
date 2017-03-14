@@ -1,0 +1,19 @@
+.DS_Store
+/target
+/.classpath
+/.project
+/.settings
+/.mvn
+mvnw
+mvnw.cmd
+/.springBeans
+src/main/resources/org/drools/schema/drools_spring/*
+*.class
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/.idea
+promotions.iml
